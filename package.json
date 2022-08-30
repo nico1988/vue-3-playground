@@ -6,6 +6,7 @@
     "url": "git+https://github.com/blacksonic/vue-3-playground.git"
   },
   "scripts": {
+    "dev": "vite",
     "start": "vite",
     "serve": "vite",
     "build": "vite build",
